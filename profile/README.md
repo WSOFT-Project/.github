@@ -1,4 +1,4 @@
-# About WSOFT ( English / [Japanese](README-ja.md) )
+# About WSOFT ( English / [Japanese](profile/README-ja.md) )
  ![WSOFT](/media/WSOFT.png)
  ## Overview
  We develop software such as WebSailing, AliceScript and PulsoidRecorder.
