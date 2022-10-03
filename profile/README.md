@@ -5,9 +5,9 @@
 
  AKAGUMI (formerly WSOFT Digital Imaging Lab) produces and supports video and music productions.
  ## Deliverables
- Major open source projects are available on GitHub and from the [WSOFT Download Center](https://download.wsoft.gq/)
+ Major open source projects are available on GitHub and from the [WSOFT Download Center](https://download.wsoft.ws/)
 
  ## Contact
- To learn more about WSOFT's activities and works, please visit [WSOFT's homepage](https://wsoft.gq).
- You may also contact [info@wsoft.gq](mailto:info@wsoft.gq) with any questions or comments.
- For support regarding the product, please contact [support@wsoft.gq](mailto:support@wsoft.gq).
+ To learn more about WSOFT's activities and works, please visit [WSOFT's homepage](https://wsoft.ws).
+ You may also contact [info@wsoft.gq](mailto:info@wsoft.ws) with any questions or comments.
+ For support regarding the product, please contact [support@wsoft.gq](mailto:support@wsoft.ws).
