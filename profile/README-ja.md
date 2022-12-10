@@ -11,6 +11,8 @@
 
 ## 成果物
 主要なオープンソースプロジェクトはGitHubで公開しているほか、[WSOFTダウンロードセンター](https://download.wsoft.ws/)から入手できます。
+
+主な成果物の一覧は、[WSOFTのホームページ](https://wsoft.ws/Works/)で公開しています。製品に関するドキュメントは[WSOFTDocs](https://docs.wsoft.ws)から入手できます。
 ## 連絡先
 WSOFTの活動や作品について詳細に知るには、[WSOFTのホームページ](https://github.com/WSOFT-Project/wsoft.ws)を参照してください。
 また、質問やコメントがある場合は、[info@wsoft.ws](mailto:info@wsoft.ws)に連絡してください。
